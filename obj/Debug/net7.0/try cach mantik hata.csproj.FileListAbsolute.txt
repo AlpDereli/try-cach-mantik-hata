@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\patika\try cach mantik hata\obj\Debug\net7.0\try cach mantik hata.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\patika\try cach mantik hata\obj\Debug\net7.0\try cach mantik hata.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\patika\try cach mantik hata\obj\Debug\net7.0\try cach mantik hata.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\patika\try cach mantik hata\obj\Debug\net7.0\try cach mantik hata.AssemblyInfo.cs
+C:\Users\HP\Desktop\patika\try cach mantik hata\obj\Debug\net7.0\try cach mantik hata.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\patika\try cach mantik hata\bin\Debug\net7.0\try cach mantik hata.exe
+C:\Users\HP\Desktop\patika\try cach mantik hata\bin\Debug\net7.0\try cach mantik hata.deps.json
+C:\Users\HP\Desktop\patika\try cach mantik hata\bin\Debug\net7.0\try cach mantik hata.runtimeconfig.json
+C:\Users\HP\Desktop\patika\try cach mantik hata\bin\Debug\net7.0\try cach mantik hata.dll
+C:\Users\HP\Desktop\patika\try cach mantik hata\bin\Debug\net7.0\try cach mantik hata.pdb
+C:\Users\HP\Desktop\patika\try cach mantik hata\obj\Debug\net7.0\try cach mantik hata.dll
+C:\Users\HP\Desktop\patika\try cach mantik hata\obj\Debug\net7.0\refint\try cach mantik hata.dll
+C:\Users\HP\Desktop\patika\try cach mantik hata\obj\Debug\net7.0\try cach mantik hata.pdb
+C:\Users\HP\Desktop\patika\try cach mantik hata\obj\Debug\net7.0\try cach mantik hata.genruntimeconfig.cache
+C:\Users\HP\Desktop\patika\try cach mantik hata\obj\Debug\net7.0\ref\try cach mantik hata.dll
